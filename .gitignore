@@ -1,0 +1,78 @@
+# =========================
+# Python environment
+# =========================
+venv/
+env/
+ENV/
+.venv/
+
+# compiled python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.local
+.env.*.local
+
+# =========================
+# Logs & runtime files
+# =========================
+*.log
+logs/
+runtime/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# IDEs (VS Code / PyCharm)
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Model files (IMPORTANT for AI projects)
+# =========================
+*.h5
+*.pkl
+*.pt
+*.pth
+*.onnx
+*.ckpt
+
+# Large datasets (if any)
+data/
+datasets/
+
+# =========================
+# Node (if frontend exists)
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+
+# =========================
+# Build / dist folders
+# =========================
+build/
+dist/
+out/
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
