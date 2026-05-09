@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">DrivingApp</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_contacts">Contacts</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home Dashboard -->
+    <string name="home_title">Dashboard</string>
+    <string name="driving_mode_label">Driving Mode</string>
+    <string name="status_active">Active</string>
+    <string name="status_inactive">Inactive</string>
+    <string name="current_speed_label">Current Speed</string>
+    <string name="peak_speed_label">Peak Speed</string>
+    <string name="confidence_label">Confidence: %d%%</string>
+
+    <!-- Driving States -->
+    <string name="state_initializing">Connecting to sensors…</string>
+    <string name="state_slow_moving">Moving Slowly</string>
+    <string name="state_error">Sensor Error</string>
+
+    <!-- Contact List -->
+    <string name="contacts_title">Priority Contacts</string>
+    <string name="contacts_empty">No contacts added yet.</string>
+    <string name="fab_add_contact">Add Contact</string>
+    <string name="dialog_add_contact_title">Add New Contact</string>
+    <string name="dialog_contact_name">Full Name</string>
+    <string name="dialog_contact_phone">Phone Number</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_section_sms">SMS Preferences</string>
+    <string name="settings_auto_reply">Auto-Reply SMS</string>
+    <string name="settings_auto_reply_desc">Send automatic replies while driving</string>
+    <string name="settings_notify_contacts">Notify Contacts on Trip</string>
+    <string name="settings_notify_contacts_desc">Alert priority contacts when trip starts</string>
+    <string name="settings_section_speed">Speed Thresholds</string>
+    <string name="settings_high_speed_alert">High Speed Alert</string>
+    <string name="settings_high_speed_alert_desc">Vibrate when speed limit exceeded</string>
+    <string name="settings_threshold_60">Alert at 60 km/h</string>
+    <string name="settings_threshold_80">Alert at 80 km/h</string>
+    <string name="settings_threshold_100">Alert at 100 km/h</string>
+
+    <!-- Notifications -->
+    <string name="notification_title">Driving Monitor</string>
+    <string name="notification_channel_name">Driving Detection</string>
+    <string name="notification_channel_desc">Shows driving status while monitoring is active</string>
+    <string name="service_initializing">Starting sensors…</string>
+    <string name="service_detecting">Detecting driving pattern…</string>
+    <string name="service_driving">Driving at %d km/h</string>
+    <string name="service_stationary">Stationary — monitoring active</string>
+    <string name="service_slow">Moving slowly at %d km/h</string>
+
+    <!-- Common -->
+    <string name="action_add">Add</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+</resources>
