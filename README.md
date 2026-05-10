@@ -124,18 +124,7 @@ AI-Smart-Call-Management/
 │
 ├── README.md
 └── .gitignore
- Screenshots
-Add your screenshots here
-
-![Home Screen](screenshots/home_screen.png)
-![Driving Mode](screenshots/driving_mode.png)
-▶ Demo
-Add your demo video link here
-
-https://your-demo-video-link
-⚙️ Installation
-Clone the repository
-
+ 
 git clone https://github.com/your-username/AI-Smart-Call-Management.git
 Open in Android Studio
 
