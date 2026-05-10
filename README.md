@@ -1,4 +1,4 @@
- <!-- QuietMiles
+ QuietMiles
 AI-Assisted Smart Call Management System
  Introduction
 Distracted driving is a major cause of road accidents, often due to incoming phone calls. This project presents an AI-assisted smart call management system that minimizes distractions while ensuring important communication is not missed.
@@ -178,4 +178,4 @@ Anagha S R
 
 License
 This project is licensed under the MIT License.
- -->
+ 
