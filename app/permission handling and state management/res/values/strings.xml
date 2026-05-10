@@ -1,0 +1,14 @@
+<!-- Permissions -->
+<string name="permission_required_title">Permissions Required</string>
+<string name="permission_permanently_denied_title">Permissions Blocked</string>
+<string name="permission_required_desc">Driving Mode needs location and activity access to detect when you\'re driving.</string>
+<string name="permission_permanently_denied_desc">You\'ve permanently denied a required permission. Please enable it in App Settings.</string>
+<string name="permission_fine_location">Precise Location</string>
+<string name="permission_background_location">Background Location</string>
+<string name="permission_activity_recognition">Activity Recognition</string>
+<string name="permission_grant">Grant Permissions</string>
+<string name="permission_open_settings">Open Settings</string>
+
+<!-- Snackbars -->
+<string name="snackbar_override_on">Driving Mode manually disabled for this trip</string>
+<string name="snackbar_override_off">Auto-detection resumed</string>
